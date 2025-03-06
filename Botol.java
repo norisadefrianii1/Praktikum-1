@@ -61,7 +61,6 @@ public class Botol {
  * Method KategoriHarga ini digunakan untuk mengelompokkan tumblr berdasarkan
  * harga jualnya.
  */
-        
     public void KategoriHarga() {
     if (this.harga > 500000) {
         System.out.println(this.merk + " adalah botol mahal.");
